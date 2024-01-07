@@ -1,0 +1,17 @@
+Regression:
+Regression Analysis is one of the most important discipline to analyse and predict the continuous variables. In these sections we will learn,
+
+Simple Linear Regression
+
+Multiple Linear Regression
+
+Assumptions of Multiple Linear regression
+
+Kaggle Project of Bike Demand Predictions
+
+-------------------------------------------------------------------
+Linear Regression Mathematical Explanation
+OLS : Ordinary Least Square
+MAE: Mean Absolute Error
+RMSE: Root Mean Squared Error
+RAE: Relative Absolute Error

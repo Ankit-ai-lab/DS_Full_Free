@@ -1,0 +1,19 @@
+Time Series Analysis
+
+Difference between Normal Data & Time Series Data
+
+Prediction Vs Forecasting?
+
+Terms:  	Level
+		Trend
+		Seasonality patterns
+		Stationary patterns
+		Cyclic patterns
+		Time lag / Time Shift Concept and its need?
+
+From where to get the data: Pandas Data Reader - Financial Data Center
+Exploratory Data Analysis (EDA) of Time Series Data
+
+ARIMA Model: AR - Auto Regression
+             I  - Integrator / Difference
+             MA - Moving Average

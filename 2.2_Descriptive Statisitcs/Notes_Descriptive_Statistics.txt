@@ -1,0 +1,9 @@
+Statistics is one of the most important part in Data Science. It provides tools and methods to find structure and give deeper insights into data. Data analysis requires descriptive statistics, Data Visualisation and drawing inferences from the data. These concepts will help you make better business decisions from data.
+
+In this part, you will learn,
+
+Descriptive Statistics - Central Tendency of the data and Measures of Dispersions
+
+Data Visualization - Using Matplotlib, we will learn various charts and graphs to analyse the data
+
+Inferential Statistics - Various distributions of the data, correlation and co-variance, Sample Distribution, Statistical Significance, Central Limit Theorem, Hypothesis Testing
